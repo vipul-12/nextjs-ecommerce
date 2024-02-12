@@ -1,7 +1,7 @@
-import Link from "next/link";
 import React from "react";
+import Link from "next/link";
 
-const Tshirts = () => {
+const Hoodies = () => {
   return (
     <div>
       <section className="text-gray-600 body-font">
@@ -12,7 +12,7 @@ const Tshirts = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  src="batman-hoodie.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -20,9 +20,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Hoodie
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 899</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p>                 */}
                 </div>
               </Link>
@@ -33,7 +33,7 @@ const Tshirts = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  src="batman-hoodie.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -41,9 +41,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Hoodie
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 899</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p> */}
                 </div>
               </Link>
@@ -54,7 +54,7 @@ const Tshirts = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  src="batman-hoodie.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -62,9 +62,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Hoodie
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 899</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p> */}
                 </div>
               </Link>
@@ -75,7 +75,7 @@ const Tshirts = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  src="batman-hoodie.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -83,9 +83,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Hoodie
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 899</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p> */}
                 </div>
               </Link>
@@ -96,7 +96,7 @@ const Tshirts = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  src="batman-hoodie.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -104,9 +104,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Hoodie
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 899</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p> */}
                 </div>
               </Link>
@@ -117,7 +117,7 @@ const Tshirts = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  src="batman-hoodie.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -125,9 +125,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Hoodie
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 899</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p> */}
                 </div>
               </Link>
@@ -138,7 +138,7 @@ const Tshirts = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  src="batman-hoodie.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -146,9 +146,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Hoodie
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 899</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p> */}
                 </div>
               </Link>
@@ -159,7 +159,7 @@ const Tshirts = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  src="batman-hoodie.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -167,9 +167,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Hoodie
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 899</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p> */}
                 </div>
               </Link>
@@ -181,4 +181,4 @@ const Tshirts = () => {
   );
 };
 
-export default Tshirts;
+export default Hoodies;
