@@ -5,7 +5,7 @@ import { GrCart } from "react-icons/gr";
 import { FaRegWindowClose } from "react-icons/fa";
 
 const NavBar = () => {
-  const theRef = useRef();
+  const theRef = useRef<any>();
 
   const toggleCart = () => {
     if (theRef.current.classList.contains("translate-x-full")) {
