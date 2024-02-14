@@ -1,7 +1,7 @@
-import Link from "next/link";
 import React from "react";
+import Link from "next/link";
 
-const Tshirts = () => {
+const Stickers = () => {
   return (
     <div>
       <section className="text-gray-600 body-font">
@@ -11,8 +11,8 @@ const Tshirts = () => {
               <Link href={"/product/theSlug"}>
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  className="m-auto md:m-0  block"
+                  src="batman-sticker.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -20,9 +20,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Sticker
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 29</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p>                 */}
                 </div>
               </Link>
@@ -32,8 +32,8 @@ const Tshirts = () => {
               <Link href={"/product/theSlug"}>
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  className="m-auto md:m-0  block"
+                  src="batman-sticker.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -41,9 +41,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Sticker
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 29</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p> */}
                 </div>
               </Link>
@@ -53,8 +53,8 @@ const Tshirts = () => {
               <Link href={"/product/theSlug"}>
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  className="m-auto md:m-0  block"
+                  src="batman-sticker.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -62,9 +62,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Sticker
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 29</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p> */}
                 </div>
               </Link>
@@ -74,8 +74,8 @@ const Tshirts = () => {
               <Link href={"/product/theSlug"}>
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  className="m-auto md:m-0  block"
+                  src="batman-sticker.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -83,9 +83,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Sticker
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 29</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p> */}
                 </div>
               </Link>
@@ -95,8 +95,8 @@ const Tshirts = () => {
               <Link href={"/product/theSlug"}>
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  className="m-auto md:m-0  block"
+                  src="batman-sticker.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -104,9 +104,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Sticker
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 29</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p> */}
                 </div>
               </Link>
@@ -116,8 +116,8 @@ const Tshirts = () => {
               <Link href={"/product/theSlug"}>
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  className="m-auto md:m-0  block"
+                  src="batman-sticker.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -125,9 +125,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Sticker
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 29</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p> */}
                 </div>
               </Link>
@@ -137,8 +137,8 @@ const Tshirts = () => {
               <Link href={"/product/theSlug"}>
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  className="m-auto md:m-0  block"
+                  src="batman-sticker.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -146,9 +146,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Sticker
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 29</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p> */}
                 </div>
               </Link>
@@ -158,8 +158,8 @@ const Tshirts = () => {
               <Link href={"/product/theSlug"}>
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block"
-                  src="batman-tshirt.jpg"
+                  className="m-auto md:m-0  block"
+                  src="batman-sticker.jpg"
                 />
 
                 <div className="mt-4 text-center md:text-left">
@@ -167,9 +167,9 @@ const Tshirts = () => {
                     CATEGORY
                   </h3>
                   <h2 className="text-gray-900 title-font text-lg font-medium">
-                    Batman Tshirt
+                    Batman Sticker
                   </h2>
-                  <p className="mt-1">₹ 499</p>
+                  <p className="mt-1">₹ 29</p>
                   {/* <p className="mt-1">Available in XS, S, M, L, XL</p> */}
                 </div>
               </Link>
@@ -181,4 +181,4 @@ const Tshirts = () => {
   );
 };
 
-export default Tshirts;
+export default Stickers;
